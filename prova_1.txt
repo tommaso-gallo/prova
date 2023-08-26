@@ -1,3 +1,10 @@
-date = $&$22/08/2023$&$
-info_1 = $&$sas$&$
-info_2 = $&$ses$&$
+date = "26/08/2023"
+decline_cookies = "_a9--._a9_1"
+divs_un_pwd = "_aa48"
+field_un_pwd = "_aa4b._add6._ac4d"
+login = "_acan._acap._acas._aj1-"
+spans_num_fol = "_ac2a"
+close_fol = "_abl-"
+fol_window = "/html/body/div[2]/div/div/div[3]/div/div/div[1]/div/div[2]/div/div/div/div/div[2]"
+fwr_xpath = "/html/body/div[2]/div/div/div[3]/div/div/div[1]/div/div[2]/div/div/div/div/div[2]/div/div/div[3]/div[1]/div//a"
+fwg_xpath = "/html/body/div[2]/div/div/div[3]/div/div/div[1]/div/div[2]/div/div/div/div/div[2]/div/div/div[4]/div[1]/div//a"
