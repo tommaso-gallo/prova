@@ -1,3 +1,4 @@
+£££
 date = "26/08/2023"
 decline_cookies = "_a9--._a9_1"
 divs_un_pwd = "_aa48"
@@ -8,3 +9,4 @@ close_fol = "_abl-"
 fol_window = "/html/body/div[2]/div/div/div[3]/div/div/div[1]/div/div[2]/div/div/div/div/div[2]"
 fwr_xpath = "/html/body/div[2]/div/div/div[3]/div/div/div[1]/div/div[2]/div/div/div/div/div[2]/div/div/div[3]/div[1]/div//a"
 fwg_xpath = "/html/body/div[2]/div/div/div[3]/div/div/div[1]/div/div[2]/div/div/div/div/div[2]/div/div/div[4]/div[1]/div//a"
+£££
